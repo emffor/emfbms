@@ -1,3 +1,3 @@
-# projeto-emfbms
+# emfbms
 
-projeto emfbms
+emfbms
